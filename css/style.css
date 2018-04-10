@@ -1,0 +1,113 @@
+#objetivos{
+box-shadow: 1px 1px 3px 1px blue;
+background: #A9C6F1;
+
+}
+#autores{
+	box-shadow: 1px 1px 3px 1px #000;
+	background: #33fff3;
+	padding: 5px;
+}
+#navindex{
+	background: #004669;
+	color: #f0ebd1;
+}
+#navsub:hover{
+	color: #004669;
+	background: #FFF;
+}
+#navsub{
+	color: #FFF;
+}
+#spam{
+	background: #f0ebd1;
+}
+
+#h4s{
+	border-bottom: #b4ce4d solid 1px;
+}
+#acti{
+	background: #f0ebd1;
+	height: 670px;
+}
+#actis{
+	background: #f0ebd1;
+}
+.icon{
+	width: 50px;
+}
+#registros{
+	padding: 10px;
+
+}
+#botoncito{
+	background: #004669;
+	color: #fff;
+	
+}
+#botoncito:hover{
+	
+	color: #f0ebd1;
+	
+}
+#ab{
+	text-decoration: none;
+	width: 100%;
+}
+#registros:hover{
+	padding: 0px;
+}
+#titulo{
+	padding-left: 25px;
+	padding-top: 15px;
+}
+#centro{
+	margin-bottom: 2%;
+}
+#ray{
+	background: #004669;
+	color: #fff;
+	width: 83%;
+	margin-left: 8%;
+	font-size: 10px;
+}
+#footer {  
+	padding-top: 10px;
+	margin-top: -50px; 
+	/* altura en px del footer con valor negativo */
+	 height: 50px; /* Altura del Footer en px*/ 
+	 background: #b4ce4d; 
+	 text-align: center; color: #FFFFFF; 
+	} 
+
+#submenu{
+	position: relative;
+	border-radius: 5px;
+	box-shadow: 1px 1px 3px 1px;
+	list-style:none;
+	padding: 5px;
+	margin: 1px;
+
+}
+#submenu:hover{
+	background: #3f348a;
+}
+#sub{
+	text-decoration: none;
+	background: #fff;	
+	
+}
+#asub:hover{
+	color: #fff;
+}
+#ulsub{
+	padding-left: 0px;
+	
+}
+	
+#seprenov{
+	border-left: #3f348a solid 1px;
+}
+#seprenovo{
+	border-right: #3f348a solid 1px;
+}
